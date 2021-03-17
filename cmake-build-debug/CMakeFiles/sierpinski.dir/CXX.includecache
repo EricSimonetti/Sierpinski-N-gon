@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/erics/Desktop/CS/Comp. Phys/Projects/CLionProjects/sierpinski/main.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+iomanip
+-
+cstdlib
+-
+
