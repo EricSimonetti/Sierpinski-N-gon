@@ -12,6 +12,7 @@ Here's an example of the program run with sides = 3, and between = 0, which give
 You can see green dots surrounding the fractle, these are the points I used to iterate between to generate the triangle
 If you edit the between variable then extra points will be added to the polygon, evenly spaced on each side.
 here's an example of the program run with sides = 5 and between = 0, followed by screenshot of the program run with sides = 5 and between = 1
+
 ![image](https://user-images.githubusercontent.com/56443205/111397084-d0ba0380-8696-11eb-908d-ff3be92bc472.png)
 ![image](https://user-images.githubusercontent.com/56443205/111397096-d7487b00-8696-11eb-8be7-8d277a9d2b9e.png)
 
